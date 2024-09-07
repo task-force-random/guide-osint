@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>les cn légendaire</title>
-    <url>/wiki/2024/08/17/temp/</url>
-    <content><![CDATA[<p><a href="https://x.com/i/birdwatch/t/1828808137249312850">la source : le dico</a></p>
-]]></content>
+    <title>baiku_initiative_group</title>
+    <url>/wiki/2024/09/07/gdi/baiku-initiative-group/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>gdi</category>
+      </categories>
+      <tags>
+        <tag>gdi</tag>
+        <tag>wiki</tag>
+      </tags>
   </entry>
   <entry>
     <title>gdi</title>
@@ -44,16 +50,10 @@
       </tags>
   </entry>
   <entry>
-    <title>baiku_initiative_group</title>
-    <url>/wiki/2024/09/07/gdi/baiku-initiative-group/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>gdi</category>
-      </categories>
-      <tags>
-        <tag>wiki</tag>
-        <tag>gdi</tag>
-      </tags>
+    <title>les cn légendaire</title>
+    <url>/wiki/2024/08/17/temp/</url>
+    <content><![CDATA[<p><a href="https://x.com/i/birdwatch/t/1828808137249312850">la source : le dico</a></p>
+]]></content>
   </entry>
   <entry>
     <title>conference Question de l&#39;Occupation illegale de l&#39;ile comorienne de Mayotte</title>
@@ -95,8 +95,8 @@
         <category>baiku_initiative_group</category>
       </categories>
       <tags>
-        <tag>wiki</tag>
         <tag>gdi</tag>
+        <tag>wiki</tag>
         <tag>baiku_initiative_group</tag>
       </tags>
   </entry>
